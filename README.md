@@ -2,7 +2,7 @@
 
 ## Five Agentic Architectures Across Equities, Oil Futures, FX Carry, Credit, and Volatility
 
-Author: Alejandro Reynoso
+
 
 ---
 
