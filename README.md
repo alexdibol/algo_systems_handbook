@@ -1,7 +1,5 @@
-# Algorithmic Trading Systems Lab  
+# ALGORITMIC TRADING SYSTEMS LAB
 ## Five Agentic Architectures Across Equities, Oil Futures, FX Carry, Credit, and Volatility
-
-Author: Alejandro Reynoso
 
 ---
 
