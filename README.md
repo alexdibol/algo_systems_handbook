@@ -298,16 +298,40 @@ The Lab does not teach automation for its own sake. It teaches disciplined augme
 
 ---
 
-## Disclaimer
+## License
 
-This repository is for educational and research purposes only.
+MIT License
 
-Nothing in the papers, handbook, or notebooks constitutes investment advice, financial advice, trading advice, or a recommendation to buy, sell, or hold any financial instrument.
+Copyright (c) 2026 Alejandro Reynoso
 
-Any real-world implementation would require independent validation, professional review, compliance approval, model-risk assessment, and appropriate human oversight.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and associated documentation files, notebooks, code, and educational materials (the "Materials"), to deal in the Materials without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or adapt copies of the Materials, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Materials.
+
+The Materials are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, completeness, or suitability for any trading, investment, financial, academic, professional, or institutional purpose. In no event shall the author or copyright holder be liable for any claim, damages, losses, liabilities, costs, or expenses arising from, out of, or in connection with the Materials or the use or other dealings in the Materials.
 
 ---
 
+## Disclaimer
+
+This repository is provided for educational, research, and instructional purposes only.
+
+Nothing in the papers, handbook, notebooks, examples, code, reports, diagrams, or related materials constitutes investment advice, financial advice, trading advice, legal advice, tax advice, accounting advice, compliance advice, or a recommendation to buy, sell, hold, hedge, structure, or trade any financial instrument, security, derivative, currency, commodity, credit exposure, volatility position, or portfolio.
+
+The systems described in this repository are conceptual, pedagogical, and experimental. They are designed to illustrate governance-first algorithmic trading architectures, agentic workflows, synthetic data generation, regime-aware analysis, auditability, stress testing, and committee-readable reporting. They are not production trading systems and should not be relied upon for live trading, portfolio management, risk management, or investment decision-making.
+
+Any real-world implementation would require independent validation, professional review, model-risk assessment, legal and compliance approval, operational testing, cybersecurity review, data-quality verification, financial-risk analysis, and appropriate human oversight.
+
+Generative AI was used as an assistant in portions of the coding, drafting, writing, editing, structuring, and explanatory development of these materials. However, the author retains full responsibility for the conception, design, editorial judgment, technical review, final content, and publication of the repository. Generative AI was used as a supporting tool, not as an autonomous author, researcher, trader, investment adviser, or decision-maker.
+
+All editorial control, technical control, methodological responsibility, and final accountability remain with the author.
+
+The materials may contain simplifications, synthetic examples, illustrative assumptions, simulated data, pedagogical abstractions, and experimental workflows. Users are responsible for reviewing, testing, validating, and adapting any material before relying on it for any purpose. No representation is made that the methods, code, models, workflows, or reports are accurate, complete, current, robust, profitable, compliant, or suitable for any particular use case.
+
+By using this repository, users acknowledge that they do so at their own risk.
+
+
+---
 ## Citation
 
 ```text
